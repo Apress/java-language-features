@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.jdojo.intruder.BreakAll
+Add-Exports: jdojo.intro/com.jdojo.intro
+Add-Opens: jdojo.contact/com.jdojo.contact java.base/java.lang

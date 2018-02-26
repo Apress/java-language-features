@@ -1,0 +1,2 @@
+Hello world!
+Java I/O is cool!

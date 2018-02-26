@@ -1,0 +1,4 @@
+grant {
+    // Grant permission to all programs to access inaccessible members
+    permission java.lang.reflect.ReflectPermission "suppressAccessChecks";
+};
