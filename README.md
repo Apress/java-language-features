@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies Java Language Features(http://www.apress.com/9781484233474) by Kishori Sharan (Apress, 2018).
+This repository accompanies [*Java Language Features*](http://www.apress.com/9781484233474) by Kishori Sharan (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484233474.jpg)
